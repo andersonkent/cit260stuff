@@ -7,5 +7,6 @@ public class Main {
         System.out.println("We are now collaborating"); 
         
         System.out.println("I have the latest version, YAY!");
+
     }
 }
