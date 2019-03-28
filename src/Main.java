@@ -5,5 +5,7 @@ public class Main {
         System.out.println("We are all Java programmers now. Look out, World!");
         
         System.out.println("We are now collaborating"); 
+        
+        System.out.println("I hope we never get a merge conflict");
     }
 }
