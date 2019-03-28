@@ -2,6 +2,6 @@
 public class Main {
 
     public static void main(String[] argv) {
-        System.out.println("Hello, Git!");
+        System.out.println("We are all Java programmers now. Look out, World!");
     }
 }
